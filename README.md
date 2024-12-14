@@ -1,8 +1,23 @@
-# React + Vite
+# Workout Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project is part of the Spur.fit Frontend UI Assignment, where the goal is to create a functional and responsive drag-and-drop UI for managing workout blocks. The task uses libraries like react-beautiful-dnd and re-resizable to implement the desired functionality as demonstrated in the provided Figma design and Loom video.
 
-Currently, two official plugins are available:
+## Setup
+1. Clone the repository.
+2. Install dependencies: `npm install`.s
+3. Start the app: `npm start`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Deployment
+The application is live and can be accessed at: https://spur-workout.netlify.app/
+
+## Features
+- Drag and drop blocks.
+- Proportional scaling for distances.
+- Clear all functionality.
+
+## Tech Stack
+- ReactJS
+- Tailwind CSS
+- react-beautiful-dnd
+- re-resizable
